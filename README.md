@@ -27,7 +27,7 @@ The `kontur_boundaries_TR_20230628.gpkg` geopackage file contains map and bounda
 
 ## Bolu Popülasyon Yoğunluğu
 
-![Ekran Görüntüsü](https://drive.google.com/uc?export=view&id=1jwSd4zMA4xtqns0ddZ309RfkCk7rgGd2)
+![titled_final_plotv2-min](https://github.com/erdinctasci/bolu-rayshader/assets/101355400/f2212f6a-8bc4-48be-8ba2-fe58c37e3560)
 
   
 ## İletişim
