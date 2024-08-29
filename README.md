@@ -1,6 +1,6 @@
 ### Bolu'nun popülasyon verisine göre rayshader ile görselleştirilmesi.
 
-Linux Kullanıcıları Derneği'nin düzenlemiş olduğu, Mustafa Akgül Özgür Yazılım Yaz Kampı 2023 kapsamında, 'R ile Veri Görselleştirme' sınıfına rayshader kütüphanesini tanıtmak maksatlı oluşturduğum bir görsel. Kampın Bolu'da düzenlendiği için özellikle Bolu şehrini seçtim.
+Linux Kullanıcıları Derneği'nin düzenlemiş olduğu, Mustafa Akgül Özgür Yazılım Yaz Kampı 2023 kapsamında, 'R ile Veri Görselleştirme' sınıfına rayshader kütüphanesini tanıtmak maksatlı oluşturduğum bir görsel. Kamp Bolu'da düzenlendiği için özellikle Bolu şehrini seçtim.
 
 
 `rayshader_bolu.R` dosyası haritanın kodlarını, `title-text.R` dosyası ise render sonrası gerekli açıklamaları yazmamı sağlayan kodları içermektedir.
